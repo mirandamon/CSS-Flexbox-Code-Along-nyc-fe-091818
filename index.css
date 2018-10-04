@@ -28,6 +28,8 @@
   min-height:100vh;
   display: flex;
   flex-direction: column; /* row, row-reverse, column, column-reverse */
-  justify-content: space-between; /*flex-end, flex-start, center, space-between, space-around*/
-  align-items: center;
+  justify-content: space-between; /*flex-end, flex-start, center, space-between, space-around* -- same direction as flex-direction */
+  align-items: center; /* opposite from flex-direction */
 }
+
+/* row -> justify-content = left -> right,  column -> justify-content = top -> bottom */
