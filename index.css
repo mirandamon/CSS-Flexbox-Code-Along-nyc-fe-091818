@@ -27,7 +27,7 @@
   border:10px solid goldenrod;
   min-height:100vh;
   display: flex;
-  flex-direction: column; /* row, row-reverse, column, column-reverse */
+  flex-direction: row; /* row, row-reverse, column, column-reverse */
   justify-content: space-between; /*flex-end, flex-start, center, space-between, space-around* -- same direction as flex-direction */
   align-items: flex-start; /* opposite from flex-direction */
 }
