@@ -13,7 +13,9 @@
 }
 
 .box1 { 
-  flex: 1;
+  flex: 1; /* valid children properties */
+  flex-grow: 1;
+  flex-shrink: 1;
   background:#1abc9c;
 }
 .box2 { 
