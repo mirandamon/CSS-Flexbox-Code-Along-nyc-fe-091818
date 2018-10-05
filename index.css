@@ -27,7 +27,8 @@
 .box9 { background:#2ecc71;}
 .box10 { 
   background:#16a085;
-  flex: 1; /* child-level property */
+  flex-shrink: 1;
+  flex-grow: 1; /* child-level property */
 }
 
 .container {
