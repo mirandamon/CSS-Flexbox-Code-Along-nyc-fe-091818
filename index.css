@@ -14,11 +14,10 @@
 
 .box1 { 
   background:#1abc9c;
-  flex-grow: 1; /* child level property */
+  flex: 1; /* child level property */
 }
 .box2 { 
   background:#3498db;
-  flex-grow: 3;
 }
 .box3 { background:#9b59b6;}
 .box4 { background:#34495e;}
