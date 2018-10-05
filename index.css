@@ -13,8 +13,7 @@
 }
 
 .box1 { 
-  background:#1abc9c;
-  flex: 1; /* child level property */
+  background:#1abc9c;/* child level property */
 }
 .box2 { 
   background:#3498db;
