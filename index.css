@@ -25,7 +25,10 @@
 .box7 { background:#e74c3c;}
 .box8 { background:#bdc3c7;}
 .box9 { background:#2ecc71;}
-.box10 { background:#16a085;}
+.box10 { 
+  background:#16a085;
+  flex-grow: 1; /* child-level property */
+}
 
 .container {
   border:10px solid goldenrod;
