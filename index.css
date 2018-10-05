@@ -14,7 +14,6 @@
 
 .box1 { 
   background:#1abc9c;/* child level property */
-  flex-grow: ;
 }
 .box2 { 
   background:#3498db;
