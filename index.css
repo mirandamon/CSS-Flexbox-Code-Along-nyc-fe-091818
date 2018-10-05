@@ -9,11 +9,12 @@
   text-align: center;
   text-shadow:4px 4px 0 rgba(0,0,0,0.1);
   padding:10px;
-  width: 250px;
+  width: 25px;
 }
 
 .box1 { 
   background:#1abc9c;/* child level property */
+  flex-grow: ;
 }
 .box2 { 
   background:#3498db;
