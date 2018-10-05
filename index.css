@@ -29,7 +29,7 @@
   min-height:100vh;
   display: flex;
   flex-direction: row; /* row, row-reverse, column, column-reverse */
-  flex-wrap: wrap;
+  flex-wrap: no-wrap;
   /*justify-content: space-between; /*flex-end, flex-start, center, space-between, space-around* -- same direction as flex-direction */
   /*align-items: flex-start; /* opposite from flex-direction */
 }
